@@ -1,0 +1,25 @@
+body {
+    padding: 80px;
+    font: 16px Helvetica, Arial;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+li {
+    margin: 40px 0;
+    padding: 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    list-style: none;
+    font-weight: bold;
+}
+
+input {
+    border: 1px solid #ccc;
+    border-top-color: #ddd;
+    border-left-color: #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    font-size: 1em;
+}
